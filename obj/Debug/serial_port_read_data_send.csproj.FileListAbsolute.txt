@@ -1,0 +1,27 @@
+D:\C# Programları\serial_port_read_data_send\bin\Debug\serial_port_read_data_send.exe.config
+D:\C# Programları\serial_port_read_data_send\bin\Debug\serial_port_read_data_send.exe
+D:\C# Programları\serial_port_read_data_send\bin\Debug\serial_port_read_data_send.pdb
+D:\C# Programları\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.csprojAssemblyReference.cache
+D:\C# Programları\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.Form1.resources
+D:\C# Programları\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.Properties.Resources.resources
+D:\C# Programları\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.csproj.GenerateResource.cache
+D:\C# Programları\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.csproj.CoreCompileInputs.cache
+D:\C# Programları\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.exe
+D:\C# Programları\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.pdb
+D:\C# Programları\serial_port_read_data_send\bin\Debug\serial_port_read_data_send.exe.manifest
+D:\C# Programları\serial_port_read_data_send\bin\Debug\serial_port_read_data_send.application
+D:\C# Programları\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.exe.manifest
+D:\C# Programları\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.application
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\bin\Debug\serial_port_read_data_send.exe.config
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\bin\Debug\serial_port_read_data_send.exe.manifest
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\bin\Debug\serial_port_read_data_send.application
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\bin\Debug\serial_port_read_data_send.exe
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\bin\Debug\serial_port_read_data_send.pdb
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.csprojAssemblyReference.cache
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.Form1.resources
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.Properties.Resources.resources
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.csproj.GenerateResource.cache
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.exe.manifest
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.application
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.exe
+C:\Users\Gktrk\source\repos\serial_port_read_data_send\obj\Debug\serial_port_read_data_send.pdb

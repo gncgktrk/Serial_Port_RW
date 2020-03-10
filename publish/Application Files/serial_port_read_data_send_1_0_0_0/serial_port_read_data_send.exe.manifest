@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="serial_port_read_data_send.exe" version="1.0.0.0" publicKeyToken="b4326c9a62800d8b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="serial_port_read_data_send" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="serial_port_read_data_send.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Bildirim Seçenekleri
+          Windows Kullanıcı Hesabı Denetim düzeyini değiştirmek istiyorsanız
+          requestedExecutionLevel düğümünü aşağıdakilerden biriyle değiştirin.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+
+         Geriye dönük uyumluluk için Dosya ve Kayıt Defteri Sanallaştırması’nı
+         kullanmak istiyorsanız requestedExecutionLevel düğümünü silin.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="serial_port_read_data_send.exe" size="12768">
+      <assemblyIdentity name="serial_port_read_data_send" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>NP4BuG+Io7rsmSCFQ3aHOs5jF2okyOsYSZ8qbBwAW5A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="serial_port_read_data_send.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-HMQIPO3U\yusuf" issuerKeyHash="f390e8dc12af1776ccc69777a093a97c5bc68821" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>qK0YErqflTZwQplOB0vCrGOVu3xRWZbO6VD3IByKKro=</DigestValue></Reference></SignedInfo><SignatureValue>l4AEM7nXfjiiq/RR6RkFfq2UnPeRlEUT3BFvYpcdlSOdC/gSY13iwCStw33rqV8y3ezl8GBosOEG+mhcJJpRbfWIg4TpXMJ4x3ZFTIP1RE2JQehGmmPz7sLTHGaCNrg933cl4giRM7vG6xmlZknPEH82exsV2bZmr0oHRLiBgT0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yEkN1x6Jxxywjm6v1t5McO6dDwW8zeiIdxiAkAX3o5jsQkqidgVcYppVakAkSeRmNj1MuaQ+so13r+QXGiG+ezCc3jwLa26LNWF0dRYxu6eGDyFBiU4e9dkbafrjMlyTDVQrlhNviWlsKvTpGmr0cIjvXd0tup8TJaM4/y4U3Sk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ba2a8a1c20f750e9ce9659517cbb9563acc24b074e99427036959fba1218ada8" Description="" Url=""><as:assemblyIdentity name="serial_port_read_data_send.exe" version="1.0.0.0" publicKeyToken="b4326c9a62800d8b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-HMQIPO3U\yusuf</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>H/9kaSEf6kPUZNJhUKCLu6YWtGPPrhNhatmVmapHCJQ=</DigestValue></Reference></SignedInfo><SignatureValue>RfJ28p2qg9nWxKlPN56GL0hcnew1qAgOs3YSZhudb98eFGcbnKuh8c+oNTW7gqtZgFoS/77vvfjk/Yt6I/8Dlx0icsqvyWbK8EGxigXrpe0N3QPxxqlUaZzs+z8XrtSsA4i93BCeMO127g7rjyKUqkTMdnYKE2Y1cjddZQ8eclw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yEkN1x6Jxxywjm6v1t5McO6dDwW8zeiIdxiAkAX3o5jsQkqidgVcYppVakAkSeRmNj1MuaQ+so13r+QXGiG+ezCc3jwLa26LNWF0dRYxu6eGDyFBiU4e9dkbafrjMlyTDVQrlhNviWlsKvTpGmr0cIjvXd0tup8TJaM4/y4U3Sk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQFu9TirlTlbxG6VZ6ORy/dTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBIAE0AUQBJAFAATwAzAFUAXAB5AHUAcwB1AGYwHhcNMTkxMTMwMTE1MDEwWhcNMjAxMTI5MTc1MDEwWjA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBIAE0AUQBJAFAATwAzAFUAXAB5AHUAcwB1AGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMhJDdceicccsI5ur9beTHDunQ8FvM3oiHcYgJAF96OY7EJKonYFXGKaVWpAJEnkZjY9TLmkPrKNd6/kFxohvnswnN48C2tuizVhdHUWMbunhg8hQYlOHvXZG2n64zJckw1UK5YTb4lpbCr06Rpq9HCI713dLbqfEyWjOP8uFN0pAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAtR3ev2Z+TvoksKQ8ReO9+hzGn3+POhuN04kOy5yRlQfok+BrgAglyQtfhh0LQdtB7LZxSeL+T3twsNn+/RgPkvlOwycok8FFdbbU5Eay3MNLPp8LTLHxjodH7fbXJKGL4gHCPcHc4AzpUIBmrqGBxArQO8NqpZ0rwn6OoDdtWiQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
